@@ -12,3 +12,9 @@ end, and moving the pointers inward until the target value is found or the point
 
 Your program should output a tuple (a, b) where a and b are two integers from the
 input list that sum up to the target value, or None if no such pair exists.
+
+# User description
+
+When starting the program, the user must enter the number of items from the list, then the list of items itself.
+The user also enters the desired amount value by which we will search for a pair of numbers. 
+When the task constraints are exceeded, the user receives an error message with a specific description.
